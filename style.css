@@ -91,6 +91,11 @@ body {
   width: 260px;
   max-width: 80%;
   margin-bottom: 12px;
+  padding: 15px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+  border: 3px solid #b48a35;
 }
 
 .hero h1 {
@@ -312,16 +317,4 @@ body {
     justify-content: center;
     text-align: center;
   }
-}
-
-.main-logo {
-  width: 260px;
-  max-width: 80%;
-  margin-bottom: 12px;
-
-  padding: 15px;
-  background: white;
-  border-radius: 20px;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
-  border: 3px solid #b48a35;
 }
